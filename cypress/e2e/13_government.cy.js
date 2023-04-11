@@ -6,7 +6,7 @@ beforeEach(() => {
 
     cy.wait(3000)
 
-    cy.get("[href='dashboard/governmentPayment']").eq(0)
+    cy.get("[href='/dashboard/governmentPayment']").eq(0)
         .click();
    
 });

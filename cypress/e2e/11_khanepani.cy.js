@@ -22,7 +22,7 @@ describe('', () => {
         .type("123432")
         cy.get("[type='submit']")
         .click();
-    cy.scrollTo(0,0)
+    cy.scrollTo(0,0) 
     cy.wait(3000)
 
     cy.get('.has-error').should('have.text',"Internal server error, please contact admin")
