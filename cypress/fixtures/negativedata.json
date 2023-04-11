@@ -1,0 +1,17 @@
+[{
+    "mobilenumber": "9860208955",
+    "password": "208955",
+    "expected": "RANJAN DHAKAL"
+},
+{
+    "mobilenumber": "9860208955",
+    "password": "123457",
+    "expected": "Invalid username / password"
+},
+{
+    "mobilenumber": "9860208955",
+    "password": "208955",
+    "expected": "Invalid usernames / password"
+
+}
+]

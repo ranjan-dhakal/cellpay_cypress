@@ -1,0 +1,24 @@
+{
+  "name": "democellpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.1",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@types/cypress": "^1.1.3",
+    "cypress-mochawesome-reporter": "^3.3.0"
+  },
+  
+  "defaultCommandTimeout": 30000
+  
+  
+}

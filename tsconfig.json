@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "../node_modules",
+    "types": [
+      "cypress"
+    ],
+    "noEmit": true
+  },
+  "include": [
+    "**/*.*"
+  ],
+  "testFiles": [
+    "**/*.spec.js",
+    "**/*.spec.ts"
+  ]
+  
+}

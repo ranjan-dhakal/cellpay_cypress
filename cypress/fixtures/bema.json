@@ -1,0 +1,143 @@
+[
+    {
+        "Name": "Asian Life Insurance Company Ltd.",
+        "InsurerCode": "LI006",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "88575",
+        "CertificateRegisterDate": "2020-08-31"
+    },
+    {
+        "Name": "Prime Life Insurance Company Ltd.",
+        "InsurerCode": "LI009",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "63504",
+        "CertificateRegisterDate": "2021-09-10"
+    },
+
+    {
+        "Name": "Gurans Life Insurance Company Ltd.",
+        "InsurerCode": "LI008",
+        "CertificateRegistrationNo": "21826",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegisterDate": "2019-07-22"
+    },
+    {
+        "Name": "Metlife Alico",
+        "InsurerCode": "LI005",
+        "CertificateRegistrationNo": "42993",
+        "CertificateRegisterDate": "2020-12-23",
+        "Agent":"INDIVIDUAL"
+    },
+    {
+        "Name": "Nepal Life Insurance Company Ltd.",
+        "InsurerCode": "LI003",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "143083",
+        "CertificateRegisterDate": "2020-05-14"
+    },
+    {
+        "Name": "Nepal Life Insurance Company Ltd.",
+        "InsurerCode": "LI003",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "191923",
+        "CertificateRegisterDate": "2022-03-06"
+    },
+    {
+        "Name": "Nepal Life Insurance Company Ltd.",
+        "InsurerCode": "LI003",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "187090",
+        "CertificateRegisterDate": "2022-02-23"
+    },
+    {
+        "Name": "Union Life Insurance Company Ltd.",
+        "InsurerCode": "LI011",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "20433",
+        "CertificateRegisterDate": "2019-07-17"
+    },
+    {
+        "Name": "Metlife Alico",
+        "InsurerCode": "LI005",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "26329",
+        "CertificateRegisterDate": "2016-01-19"
+    },
+    {
+        "Name": "IME Life Insurance Company Ltd.",
+        "InsurerCode": "LI010",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "13858",
+        "CertificateRegisterDate": "2021-09-09"
+    },
+    {
+        "Name": "Reliance Life Insurance Company Ltd.",
+        "InsurerCode": "LI014",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "14296",
+        "CertificateRegisterDate": "2020-01-02"
+    },
+    {
+        "Name": "Union Life Insurance Company Ltd.",
+        "InsurerCode": "LI011",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "56177",
+        "CertificateRegisterDate": "2021-08-19"
+    },
+    {
+        "Name": "Reliance Life Insurance Company Ltd.",
+        "InsurerCode": "LI014",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "3157",
+        "CertificateRegisterDate": "2018-10-12"
+    },
+    {
+        "Name": "IME Life Insurance Company Ltd.",
+        "InsurerCode": "LI010",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "23411",
+        "CertificateRegisterDate": "2022-01-19"
+    },
+    {
+        "Name": "Union Life Insurance Company Ltd.",
+        "InsurerCode": "LI011",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "46518",
+        "CertificateRegisterDate": "2020-11-03"
+    },
+    {
+        "Name": "Nepal Life Insurance Company Ltd.",
+        "InsurerCode": "LI003",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "93563",
+        "CertificateRegisterDate": "2016-11-09"
+    },
+    {
+        "Name": "Union Life Insurance Company Ltd.",
+        "InsurerCode": "LI011",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "59574",
+        "CertificateRegisterDate": "2021-12-27"
+    },
+    {
+        "Name": "Union Life Insurance Company Ltd.",
+        "InsurerCode": "LI011",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "57222",
+        "CertificateRegisterDate": "2021-09-26"
+    },
+    {
+        "Name": "Sun Nepal Life Insurance Company Ltd.",
+        "InsurerCode": "LI013",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "26397",
+        "CertificateRegisterDate": "2021-12-05"
+    },
+    {
+        "Name": "Asian Life Insurance Company Ltd.",
+        "InsurerCode": "LI006",
+        "Agent":"INDIVIDUAL",
+        "CertificateRegistrationNo": "14420",
+        "CertificateRegisterDate": "2009-11-08"
+    }
+    ]
