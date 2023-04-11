@@ -11,7 +11,7 @@ beforeEach(() => {
    
 });
 
-describe('TV', () => {
+describe('Governmemt Payment', () => {
     it.only('From WALLET', () => {
         
     });

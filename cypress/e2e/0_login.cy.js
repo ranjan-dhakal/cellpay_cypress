@@ -12,12 +12,13 @@ export function login() {
       cy.get('#username').type(data.mobilenumber); //for id tag # is needed
       cy.get('#password').type(data.password);
       cy.get("[type='submit']").click();
-      cy.window().its('document').its('readyState').should('equal', 'complete')
-      cy.url().should('include', 'dashboard')
+      
       
       
             
     })
+    cy.window().its('document').its('readyState').should('equal', 'complete')
+      cy.url().should('include', 'dashboard')
   
 }
 
