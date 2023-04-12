@@ -18,7 +18,7 @@ describe('My Cypress Test Suite', () => {
         cy.get("[alt=testCase.href]")
           .click()
         cy.title().should('contain', testCase.title)
-        
+
       })
     })
   })
