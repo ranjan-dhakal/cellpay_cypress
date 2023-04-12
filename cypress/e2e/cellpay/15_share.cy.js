@@ -9,9 +9,12 @@ beforeEach(() => {
 
 
 describe('Share Payment', () => {
+
+    // renew system json file for wrap
     const renewSystem = [
         {title: 'Prabbhu Capital', alt: 'PrabhuCapital',}
     ]
+    //subscribe json file for wrap
     const subsSystem = [
         {title: 'Laxmi Capital', alt: 'LaxmiCapital',}
     ]
