@@ -1,0 +1,86 @@
+[
+    {
+        "sn": 1,
+        "title": "  Ajod  ",
+        "alt": "Ajod",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 2,
+        "title": " General ",
+        "alt": "General",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 3,
+        "title": " MahaLaxmi Life ",
+        "alt": "MahalaxmiLife",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 4,
+        "title": " Nepal Life ",
+        "alt": "NepalLife",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 5,
+        "title": " NLG ",
+        "alt": "NLG",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 6,
+        "title": " Prabhu Life ",
+        "alt": "PrabhuLife",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 7,
+        "title": " Reliable Life ",
+        "alt": "ReliableLife",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 8,
+        "title": " Sanima Life ",
+        "alt": "SanimaLife",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 9,
+        "title": " Sagarmatha ",
+        "alt": "Sagarmatha",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 10,
+        "title": " Union ",
+        "alt": "Union",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 11,
+        "title": " Surya Life ",
+        "alt": "Surya",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    },
+    {
+        "sn": 12,
+        "title": " General ",
+        "alt": "General",
+        "numberField": "[name='policyNumber']",
+        "number": "12345678"
+    }
+]
